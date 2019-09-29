@@ -11,8 +11,10 @@ diversas operações ou somente para exibir algum conteúdo tudo em c++ e uma fu
 7)Funções são importantes porque elas retornam valores, ajudam a fragmentar o código em partes menores - mais fáceis de lidar - e 
 ainda por cima podem ser utilizadas mais de uma vez no mesmo programa, poupando preciosos minutos de programação e inúmeras linhas de código
 8)Para executar uma função, fazemos uma chamada de função, que é uma instrução composta pelo nome da função, seguido pela lista de argumentos entre parênteses
-declarar: 
-
+declarar: quando vc declara vc meio que esta declarando a variavel vc esta dando um objetivo ou um valor pra ela
+9) Os parâmetros são as variáveis declaradas diretamente no cabeçalho da função.
+10) retorno e quando acaba quando o programa pode parar de executar o codigo
+11) sim o estudo dirigido 1, pois nos ajudaria a raciocinar mais e pensar na resposta , isso tbm ajudaria no nosso conhecimento teorico 
 
 Algotitimos de Repetição 
 
